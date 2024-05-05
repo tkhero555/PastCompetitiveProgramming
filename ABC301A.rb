@@ -1,5 +1,7 @@
+# 入力部分
 n = 5
 array = "TTTAA".split("")
+# 回答部分
 if n % 2 == 1
   wins = n/2+1
 elsif n % 2 == 0
