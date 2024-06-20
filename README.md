@@ -1,1 +1,4 @@
 競技プログラミングの過去問を解いているリポジトリです。
+
+notionに考え書いたり、解答解説メモしたり
+https://www.notion.so/AtCoder-e1c69838528746a6972981fa6c3850e7#d00c0a9573264faba9dc3d3c93e9da54
